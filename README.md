@@ -9,6 +9,6 @@ which are subsequently subject to a crowd-sourced evaluation process where sugge
 receive upvotes to indicate the level of severity and importance.
 
 ## Run the Demo
-Just download the zip file.
-Extract it.
-Open localGov.html to see the demo.
+- Just download the zip file.
+- Extract it.
+- Open **localGov.html** to see the demo.
